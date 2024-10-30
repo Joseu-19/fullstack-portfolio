@@ -1,0 +1,11 @@
+.project-card {
+       border: 1px solid #ccc;
+       border-radius: 8px;
+       cursor: pointer;
+       padding: 16px;
+       transition: transform 0.3s;
+     }
+     
+    .project-card:hover {
+       transform: scale(1.05);
+    }
